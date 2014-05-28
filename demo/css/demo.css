@@ -1,0 +1,9 @@
+.test {
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: #aaaaaa;
+    float: left;
+    margin-left: 140px;
+    position: relative;    padding: 10px;
+}
